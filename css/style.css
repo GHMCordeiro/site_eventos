@@ -1,0 +1,135 @@
+.nome_user{
+    font-size:x-large;
+}
+
+.info{
+    font-size: large;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    text-decoration: none;
+    color: black;
+}
+
+a:active{
+    color: black;
+}
+
+.user{
+    position: relative;
+    right: -35%;
+}.nome_user{
+    font-size:x-large;
+}
+
+.info{
+    font-size: large;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    text-decoration: none;
+    color: black;
+}
+
+a:active{
+    color: black;
+}
+
+.user{
+    position: relative;
+    right: -35%;
+}
+
+.navbar{
+    background-color: #5716be;
+}
+
+.offcanvas{
+    background-color: #5716be;
+}
+
+.btn-offcanvas{
+    color: #ffffff;
+    font-size: xx-large;
+}
+
+.img-evento{
+    width: 10%;
+    height: 20%;
+}
+
+@media ((min-width:400px) and (max-width: 768px)){
+    .col-logo{
+        width: 40%;
+    }
+
+    .col-menu{
+        width: 40%;
+    }
+
+    .col-cad{
+        width: 50%;
+        padding: 0%;
+    }
+
+    .col-entrar{
+        width: 40%;
+        font-size: small;
+    }
+
+    .col-cad a{
+        font-size: small;
+    }
+}
+
+@media (max-width:400px)
+{
+    .flood{
+        display: none;
+    }
+
+    .col-logo{
+        width: 40%;
+    }
+
+    .col-menu{
+        width: 20%;
+    }
+
+    .col-cad{
+        width: 50%;
+        padding: 0%;
+    }
+
+    .col-entrar{
+        width: 40%;
+        font-size: small;
+    }
+
+    .col-cad a{
+        font-size: small;
+    }
+}
+
+.navbar{
+    background-color: #5716be;
+}
+
+.offcanvas{
+    background-color: #5716be;
+}
+
+.btn-offcanvas{
+    color: #ffffff;
+    font-size: xx-large;
+}
